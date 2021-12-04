@@ -12,6 +12,8 @@ function draw(){
     noFill();
     stroke(255, 0, 0);
     rect(30, 60, 450, 350);
-    rect(250, 60, 450, 350);
+    fill(38, 191, 46)
+    text("Cat", 275, 75);
+    rect(250, 50, 450, 200);
   
 }
